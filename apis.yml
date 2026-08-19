@@ -36,7 +36,7 @@ x-enrichment-note: >-
   hanqigroup.com did not resolve; live sites are en./www.hanqigroup.com on Alibaba
   CDN). No OpenAPI exists, so all derive-based artifacts are N/A. Domain-security
   probed; /.well-known/* all 404.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
